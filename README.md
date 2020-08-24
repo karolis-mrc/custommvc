@@ -15,4 +15,4 @@ In app/config/config.php file write your own parameters :
 * _YOUR_SITENAME - name of your site
 
 In app/public/.htaccess file :
-* In "RewriteBase /custommvc/public" line change the "custommvc" to your own path
+* In "RewriteBase [/custommvc/public] line change the [custommvc] to your own path
